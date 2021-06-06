@@ -1,10 +1,10 @@
 import './App.css';
-import Home from './components/Home';
+import ReducerCount from './components/ReducerCount/ReducerCount';
 
 function App() {
   return (
     <div className="App">
-      <Home></Home>
+      <ReducerCount></ReducerCount>
     </div>
   );
 }
